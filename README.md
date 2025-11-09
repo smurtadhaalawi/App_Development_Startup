@@ -17,7 +17,7 @@ This analysis focuses on three major app genres Education, Entertainment, and Tr
 - Identify top-performing apps within each genre to understand successful design, pricing, and user experience patterns.
 
 ## 4. Dashboards
-<img alt="Image" src="[https://github.com/user-attachments/assets/89752acb-4a50-4f43-bf81-0e70f1288c8f](https://github.com/smurtadhaalawi/App_Development_Startup/blob/18f32fc5bf6a342a3ccdeec951ad5446d233ca8e/Dashboard.png)" />
+![image alt](https://github.com/smurtadhaalawi/App_Development_Startup/blob/18f32fc5bf6a342a3ccdeec951ad5446d233ca8e/Dashboard.png)
 
 ## 5. Recommendation 
 
