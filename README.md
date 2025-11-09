@@ -11,10 +11,10 @@ This analysis focuses on three major app genres Education, Entertainment, and Tr
 ## 3. Approches 
 
 - Compare platform performance (Android vs. iOS) for Education, Entertainment, and Travel apps based on average ratings and total reviews.
-- Analyze the impact of price type (Free vs. Paid) within each genre.
-- Evaluate how content rating (Everyone, Teen, Mature) influences app visibility and audience reach.
-- Identify top-performing apps within each genre to understand successful design, pricing, and user experience patterns.
 - Determine the most promising genre and platform combination for the startup to prioritize in its first app launch.
+- Evaluate how content rating (Everyone, Teen, Mature) influences app visibility and audience reach.
+- Analyze the impact of price type (Free vs. Paid) within each genre.
+- Identify top-performing apps within each genre to understand successful design, pricing, and user experience patterns.
 
 ## 4. Dashboards
 
